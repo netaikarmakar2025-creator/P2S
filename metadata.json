@@ -1,0 +1,7 @@
+{
+  "name": "P2S",
+  "description": "Extract structured data and summaries from PDF documents using AI. Features a modern searchable table view and intelligent analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
